@@ -1,6 +1,10 @@
 body {
     background-image: url(images/dan-v-YC7HXmBUgmo-unsplash.jpg);
     background-size: cover;
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header {
